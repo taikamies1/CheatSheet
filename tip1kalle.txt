@@ -1,0 +1,1 @@
+komennolla "git help everyday" saa komennot gitin jokapäiväiseen käyttöön.
