@@ -1,0 +1,1 @@
+You can edit your most recent commit log message with command § git commit --amend 
