@@ -1,0 +1,1 @@
+komennolla git branch -m <uusi-nimi> pystyy uudelleennimeämään git branchin.
